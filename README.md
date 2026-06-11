@@ -41,7 +41,7 @@ O projeto é composto pelos seguintes arquivos e pastas:
 O site apresenta as seguintes funcionalidades:
 
 - Organização de conteúdos sobre o tema Agrinho 2026;
-- Textos explicativos sobre [coloque aqui o tema específico];
+- Textos explicativos sobre [ o agrinho ];
 - Imagens relacionadas ao tema;
 - Botões ou elementos interativos desenvolvidos com JavaScript;
 - Layout organizado com CSS;
@@ -76,7 +76,6 @@ Textos: [ chat gpt, gemini ]
 
 Caso tenha utilizado IA, descreva o prompt utilizado:
 
-“ ”
 
 9  -  Licença
 
