@@ -54,7 +54,7 @@ O site apresenta as seguintes funcionalidades:
 
 O projeto pode ser acessado pelo link abaixo: 
 https://editor.p5js.org/michely.fernandes.souza/sketches/SCx-Tha3C
-[Coloque aqui o link do GitHub Pages ou Vercel]
+
 
 7 - Como executar o projeto
 
@@ -76,7 +76,7 @@ Textos: [ chat gpt, gemini ]
 
 Caso tenha utilizado IA, descreva o prompt utilizado:
 
-“[Cole aqui o prompt usado, se houver]”
+“ ”
 
 9  -  Licença
 
